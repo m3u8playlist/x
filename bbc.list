@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,vs-hls-uk-live.akamaized.net,ProxyUK
+DOMAIN-SUFFIX,edgesuite.net,ProxyUK
+DOMAIN-SUFFIX,llnwi.net,ProxyUK
+DOMAIN-SUFFIX,llnwd.net,ProxyUK
+DOMAIN-SUFFIX,scorecardresearch.com,ProxyUK
+DOMAIN-SUFFIX,2cnt.net,ProxyUK
+DOMAIN-SUFFIX,google.co.uk,ProxyUK
+DOMAIN-SUFFIX,bbci.co.uk,ProxyUK
+DOMAIN-SUFFIX,bbc.co.uk,ProxyUK
+DOMAIN-SUFFIX,bbc.com,ProxyUK
+USER-AGENT,BBCiPlayer*,ProxyUK
+DOMAIN-KEYWORD,bbcfmt,ProxyUK
+DOMAIN-KEYWORD,uk-live,ProxyUK
+DOMAIN-SUFFIX,bbc.co,ProxyUK
+DOMAIN-SUFFIX,bbc.co.uk,ProxyUK
+DOMAIN-SUFFIX,bbc.com,ProxyUK
+DOMAIN-SUFFIX,bbci.co,ProxyUK
