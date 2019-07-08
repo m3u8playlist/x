@@ -1,0 +1,8 @@
+#abema tv
+USER-AGENT,AbemaTV*,ProxyJP
+DOMAIN,linear-abematv.akamaized.net,ProxyJP
+DOMAIN-SUFFIX,abema.io,ProxyJP
+DOMAIN-SUFFIX,abema.tv,ProxyJP
+DOMAIN-SUFFIX,akamaized.net,ProxyJP
+DOMAIN-SUFFIX,ameba.jp,ProxyJP
+DOMAIN-SUFFIX,hayabusa.io,ProxyJP
