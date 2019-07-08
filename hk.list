@@ -1,0 +1,10 @@
+# MytvSUPER
+USER-AGENT,mytv*,ProxyHK
+DOMAIN-KEYWORD,nowtv100,ProxyHK
+DOMAIN-KEYWORD,rthklive,ProxyHK
+DOMAIN-SUFFIX,mytvsuper.com,ProxyHK
+DOMAIN-SUFFIX,tvb.com,ProxyHK
+# JOOX
+USER-AGENT,WeMusic*,ProxyHK
+USER-AGENT,JOOX*,ProxyHK
+DOMAIN-SUFFIX,joox.com,ProxyHK
