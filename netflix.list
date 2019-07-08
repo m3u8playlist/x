@@ -1,0 +1,9 @@
+# netflix
+USER-AGENT,Argo*,ProxyNF
+DOMAIN-SUFFIX,netflix.com,ProxyNF
+DOMAIN-SUFFIX,netflix.net,ProxyNF
+DOMAIN-SUFFIX,nflxext.com,ProxyNF
+DOMAIN-SUFFIX,nflximg.com,ProxyNF
+DOMAIN-SUFFIX,nflximg.net,ProxyNF
+DOMAIN-SUFFIX,nflxso.net,ProxyNF
+DOMAIN-SUFFIX,nflxvideo.net,ProxyNF
